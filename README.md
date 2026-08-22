@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center"> Всем привет <img src="https://c.tenor.com/05QmcJhoSIcAAAAd/tenor.gif" height="32"/> Меня зовут Рашид!</h1>
 
-<!--
-**GilvanovRA/GilvanovRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :man_technologist: Обо мне
+Marketing & UA Analyst с фокусом на Performance-маркетинг и экономику привлечения пользователей. Имею подтвержденный опыт управления бюджетами, монетизации трафика и оптимизации метрик (CAC, LTV, ROI). Для масштабирования собственных проектов выстроил аналитическую инфраструктуру: от написания SQL-запросов (ClickHouse, PostgreSQL) и обработки датасетов на Python до визуализации P&L в BI-системах. Умею математически обосновывать маркетинговые гипотезы с помощью статтестов и находить точки кратного роста выручки.
 
-Here are some ideas to get you started:
+Telegram для связи: @GilvanovRA </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакты:
+### Telegram: [@rashkeen](https://t.me/GilvanovRA)
+
+### :hammer_and_wrench: Мой стэк:
+<div>
+  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/mySQL-white?logo=mySQL&s&style=for-the-badge" title="MySQL"  alt="MySQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  
+</div>
+
+### :book: Мои проекты:
+
+<div align='center'>
+  
+|Название|Описание|Стек технологий|
+|--------|-----------|-----------|
+| [E-commerce Sales & RFM Customer Segmentation](https://github.com/rashkeen/E-commerce_RFM_Analytics/tree/main)|Выполнен комплексный анализ данных: очистка от аномалий и технических транзакций, EDA выручки и географии. Проведен когортный анализ Retention Rate и RFM-сегментация клиентов. Результаты визуализированы в интерактивном BI-дашборде.|Python, Pandas, Matplotlib, Seaborn, NumPy, Squarify, Pandasql, Datetime|
+|[E-commerce A/B Testing: Push Notification Mechanics](https://github.com/rashkeen/ab_test_push_mechanics)|Проведен комплексный анализ результатов A/B-теста новой механики push-уведомлений с целью оценки их влияния на целевую метрику Conversion Rate (CR) и контроля Guardrail-метрик (Average Order Value и Unsubscribe Rate). Выполнен разведочный анализ данных (EDA) и оценка распределений. Для сравнения пропорций (конверсия и отток) применен Z-тест, а для анализа среднего чека — метод Bootstrap. Сформулированы продуктовые выводы и рекомендации на основе полученных p-value и доверительных интервалов. |Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy (stats)|
+|[Дашборд для сегментации клиентов и анализа продаж](https://datalens.yandex/q1p5chduurika)|Разработан интерактивный инструмент для мониторинга здоровья бизнеса и управления клиентской базой. Дашборд объединяет операционные метрики продаж с результатами RFM-сегментации. Инструмент позволяет руководству и отделу маркетинга мгновенно оценивать структуру выручки, выявлять наиболее ценных клиентов (VIP) и сегменты, требующие реактивации (Зона риска), а также анализировать предпочтения покупателей в разрезе стран. |DataLens, SQL, Python (для предобработки данных)|
+
+</div>

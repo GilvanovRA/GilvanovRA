@@ -6,7 +6,7 @@ Marketing & UA Analyst с фокусом на Performance-маркетинг и 
 Telegram для связи: @GilvanovRA </br>
 
 ### 📫 Контакты:
-### Telegram: [@rashkeen](https://t.me/GilvanovRA)
+### Telegram: [@GilvanovRA](https://t.me/GilvanovRA)
 
 ### :hammer_and_wrench: Мой стэк:
 <div>
